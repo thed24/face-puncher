@@ -1,0 +1,10 @@
+{
+  "name": "Face Puncher",
+  "version": "1.0",
+  "authors": ["Dominic"],
+  "description": "A robot that will punch your face.",
+  "homepage": "",
+  "countryCodes": ["us"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
